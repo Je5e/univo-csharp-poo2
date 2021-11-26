@@ -10,7 +10,7 @@ La capa de datos se encontrará alojada en un servidor Microsoft SQL Server. Uti
 Database-First que es el enfoque más común, construiremos la Capa de acceso a datos y la capa de 
 entidades utilizando Entity Framework. Separaremos las Entidades POCO en un proyecto .NET 
 Standard independiente de la capa de acceso a datos para poder reutilizar esta capa de entidades en 
-las demás capas, incluyendo en los clientes Xamarin.Forms.
+las demás capas.
 
 Crearemos una capa de lógica de negocios para permitir el acceso a los datos desde las otras capas.
 
