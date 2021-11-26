@@ -19,7 +19,7 @@ descritos en los ejercicios están diseñados con Visual Studio Enterprise 2019 
 máquina con Windows 10 Pro y SQL Server 2017.
 
 ## Objetivos
-Al finalizar este módulo, los participantes podrán: 
+Al finalizar este laboratorio, los participantes podrán: 
 
 * Crear la capa de origen de datos utilizando Microsoft SQL Server.
 * Crear la capa de Acceso a datos utilizando Entity Framework.
