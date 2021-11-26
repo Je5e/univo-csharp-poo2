@@ -1,4 +1,6 @@
-En este módulo aplicaremos los conceptos teóricos descritos en el módulo anterior desarrollando una 
+# Desarrollando una aplicacio n N-Capas
+
+En este laboratorio aplicaremos los conceptos teóricos descritos en clases desarrollando una 
 aplicación en la cual implementaremos la Arquitectura N-Capas.<br/>
 
 Para ejemplificar el desarrollo de una aplicación en N-Capas, desarrollaremos una aplicación que nos 
