@@ -12,9 +12,7 @@ entidades utilizando Entity Framework. Separaremos las Entidades POCO en un proy
 Standard independiente de la capa de acceso a datos para poder reutilizar esta capa de entidades en 
 las demás capas, incluyendo en los clientes Xamarin.Forms.
 
-Crearemos una capa de lógica de negocios para permitir el acceso a los datos desde las otras capas, 
-construiremos una capa de servicio utilizando un Web API ASP.NET MVC para dar soporte a 
-aplicaciones WPF, Web, UWP, iOS y Android.
+Crearemos una capa de lógica de negocios para permitir el acceso a los datos desde las otras capas.
 
 Toda la solución será desarrollada utilizando Visual Studio como entono de desarrollo. Los pasos 
 descritos en los ejercicios están diseñados con Visual Studio Enterprise 2019 versión 16.11.2 sobre una 
