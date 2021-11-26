@@ -1,4 +1,4 @@
-# Desarrollando una aplicacio n N-Capas
+# Desarrollando una aplicación N-Capas
 
 En este laboratorio aplicaremos los conceptos teóricos descritos en clases desarrollando una 
 aplicación en la cual implementaremos la Arquitectura N-Capas.<br/>
