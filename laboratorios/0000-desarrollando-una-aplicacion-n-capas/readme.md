@@ -21,7 +21,7 @@ máquina con Windows 10 Pro y SQL Server 2017.
 ## Objetivos
 Al finalizar este laboratorio, los participantes podrán: 
 
-* Crear la capa de origen de datos utilizando Microsoft SQL Server ([01-crar-la-base-de-datos](01-crear-la-base-de-datos.md) - [Crer el diagrama ER](02-crear-diagrama-entidad-relacion.md)).
+* Crear la capa de origen de datos utilizando Microsoft SQL Server ([01-crar-la-base-de-datos](01-crear-la-base-de-datos.md) - [02-Crer el diagrama ER](02-crear-diagrama-entidad-relacion.md)).
 * Crear la capa de Acceso a datos utilizando Entity Framework ([03-crear-capa-de-acceso-a-datos-y-entidades.md](03-crear-capa-de-acceso-a-datos-y-entidades.md)).  
 * Crear la capa de Entidades utilizando una biblioteca de clases .NET Standard ([301-create-entities-layers.md](301-create-entities-layers.md))
 * Crear la capa de Lógica de Negocios.
