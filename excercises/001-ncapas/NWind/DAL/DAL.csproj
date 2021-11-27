@@ -50,9 +50,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Category.cs">
+    <None Include="..\Entities\Category.cs">
       <DependentUpon>NWindDBModel.tt</DependentUpon>
-    </Compile>
+    </None>
+    <None Include="..\Entities\Product.cs">
+      <DependentUpon>NWindDBModel.tt</DependentUpon>
+    </None>
     <Compile Include="NWindDBModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -67,9 +70,6 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>NWindDBModel.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="Product.cs">
-      <DependentUpon>NWindDBModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -91,15 +91,26 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>NWindDBModel.Context.cs</LastGenOutput>
       <DependentUpon>NWindDBModel.edmx</DependentUpon>
+      <CustomToolNamespace>Entities</CustomToolNamespace>
     </Content>
     <Content Include="NWindDBModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>NWindDBModel.edmx</DependentUpon>
       <LastGenOutput>NWindDBModel.cs</LastGenOutput>
+      <CustomToolNamespace>Entities</CustomToolNamespace>
     </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="..\Entities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{bc031278-c012-4097-8c58-5d0a088823f9}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

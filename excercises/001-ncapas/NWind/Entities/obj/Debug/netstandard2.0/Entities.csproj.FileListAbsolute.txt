@@ -1,0 +1,10 @@
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\Entities\obj\Debug\netstandard2.0\Entities.pdb

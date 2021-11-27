@@ -1,0 +1,14 @@
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\DAL.dll.config
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\DAL.dll
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\DAL.pdb
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\EntityFramework.dll
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\EntityFramework.xml
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\obj\Debug\DAL.dll
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\obj\Debug\DAL.pdb
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\Entities.dll
+C:\labs21\poo2\univo-csharp-poo2\excercises\001-ncapas\NWind\DAL\bin\Debug\Entities.pdb
