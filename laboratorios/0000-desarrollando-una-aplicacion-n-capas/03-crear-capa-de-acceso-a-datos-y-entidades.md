@@ -75,11 +75,13 @@ Selecciona la opción **Add > New Item…** del menú contextual del proyecto **
 
 10. Selecciona la plantilla **ADO.NET Entity Data Model.**
 
-    ![Entity Data Model](https://user-images.githubusercontent.com/45072377/143656055-cb5be09b-a298-4d9c-b777-fa3aa8450394.png)
+![Entity Data Model](https://user-images.githubusercontent.com/45072377/143656055-cb5be09b-a298-4d9c-b777-fa3aa8450394.png)
 
 11. Escribe el nombre **NWindDBModel** y haz clic en el botón **Add** para continuar.
 
     ![EDM name](https://user-images.githubusercontent.com/45072377/143656146-d2bfefaa-c48b-4902-8db4-34308b9ad38f.png)
+    
+**Nota:** Si no aparece **ADO.NET Entity Data Model,** dirigase aquí para instalarlo [ADO.NET Entity Data Model](ef-ado.net-entity-data-model.md)   
     
 La ventana *Entity Data Model Wizard* será mostrada. Entity Data Model Wizard es uno de los asistentes 
 de *ADO.NET Entity Framework* que nos permite generar un nuevo modelo conceptual.
