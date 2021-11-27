@@ -3,4 +3,4 @@ En la carpeta **laboratorios** encuentra cada uno de los laboratorios, por cada 
 
 Laboratorio|Fecha
 -|-
-[0000-Desarrollando una aplicación n-capas](0000-desarrollando-una-aplicacion-n-capas)|11/25/2021
+[0000-Desarrollando una aplicación n-capas](0000-desarrollando-una-aplicacion-n-capas\readme.md)|11/25/2021
