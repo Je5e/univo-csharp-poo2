@@ -14,7 +14,7 @@ Realice los siguientes pasos para instalarlo:
 
 ![Modify](https://user-images.githubusercontent.com/45072377/143687663-63f2f3b0-7037-4d23-abf9-92ac18f824cc.png)
 
-3. En la ventana de modificación, navegue a la pestaña de **Componentes individuales
+3. En la ventana de modificación, navegue a la pestaña de **Componentes individuales**
 
 ![Individual components](https://user-images.githubusercontent.com/45072377/143687728-414fc94e-1feb-4a94-84b2-af868c5655fd.png)
 
