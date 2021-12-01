@@ -7,7 +7,6 @@ un servicio Web.
 Podemos utilizar el patrón Repositorio para separar la lógica de negocios de la lógica que utiliza la capa 
 de acceso a datos para recuperar los datos y mapearlos a las entidades del modelo.
 
-
 Para obtener más información sobre el patrón Repositorio puedes consultar el 
 siguiente enlace:
 The Repository Pattern
